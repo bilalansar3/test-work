@@ -9,7 +9,9 @@ const NewReopcommands = () => {
        <p> git add . </p>
         <p>git commit -m "messege"</p>
        <p> git remote (link)</p>
+       <p>Muhammd zain naseer</p>
        <p> git push origin master</p>
+
     </div>
   )
 }

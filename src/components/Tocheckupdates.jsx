@@ -7,7 +7,7 @@ const Tocheckupdates = () => {
         <h4>alway take pull before doing new work </h4>
 
         <p>git pull origin master</p>
-
+         <h1>Bilal Anser</h1>
         <h2>jab sirf code ko push krna ho tu</h2>
         <p>git status</p>
         <p>git add . </p>

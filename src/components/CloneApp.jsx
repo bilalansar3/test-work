@@ -9,6 +9,7 @@ const CloneApp = () => {
       <p>git status</p>
       <p>
       powershell cut krain gae tu wo sari app ka code a chuka ho ga
+      good 
       </p>
     </div>
   )
