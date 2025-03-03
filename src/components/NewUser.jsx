@@ -1,9 +1,12 @@
+
 import React from 'react';
 
 const NewUser = () => {
    
   return (
-    <div>NewUser</div>
+    <div>NewUser
+      <input placeholder='Seach'></input>
+    </div>
   )
 }
 
