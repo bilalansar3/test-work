@@ -55,7 +55,7 @@ setLoading(false)
             return(
                 <>
     <tr>
-      <th scope="col">{items.id}</th>
+      <th scope="col">{index}</th>
       <th scope="col">First Name</th>
       <th scope="col">Last Name</th>
       <th scope="col">Address</th>
