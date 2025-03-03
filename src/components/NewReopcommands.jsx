@@ -3,6 +3,7 @@ import React from 'react'
 const NewReopcommands = () => {
   return (
     <div>
+        <h1>when creating new repo</h1>
         <p>git init     (just first time creating new repo)</p>
         <p>git status</p>
        <p> git add . </p>
