@@ -12,6 +12,10 @@ const NewReopcommands = () => {
        <p>Muhammd zain naseer</p>
        <p> git push origin master</p>
 
+
+<div className="container">
+    <input type='number' />
+</div>
     </div>
   )
 }

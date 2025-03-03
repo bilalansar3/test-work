@@ -11,6 +11,11 @@ const CloneApp = () => {
       powershell cut krain gae tu wo sari app ka code a chuka ho ga
       good 
       </p>
+
+
+      <div className="container">
+        <input type="text" />
+      </div>
     </div>
   )
 }
