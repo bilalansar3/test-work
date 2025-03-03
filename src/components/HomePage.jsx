@@ -43,6 +43,7 @@ setLoading(false)
     
 <div>
     <button onClick={navi} type="button" className="btn btn-primary">Create User Data</button>
+    <button>Click Me</button>
 </div>
 
     
@@ -60,6 +61,7 @@ setLoading(false)
       <th scope="col">Last Name</th>
       <th scope="col">Address</th>
       <th scope="col">Phone Number</th>
+      <th scope="col">Name</th>
       <th scope="col">Email address</th>
       <th scope="col">Password</th>
     </tr>
