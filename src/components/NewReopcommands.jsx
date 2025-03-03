@@ -7,7 +7,6 @@ const NewReopcommands = () => {
         <p>git init     (just first time creating new repo)</p>
         <p>git status</p>
        <p> git add . </p>
-       git git git remove 
         <p>git commit -m "messege"</p>
        <p> git remote (link)</p>
        <p>Muhammd zain naseer</p>

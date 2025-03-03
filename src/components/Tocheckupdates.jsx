@@ -10,7 +10,6 @@ const Tocheckupdates = () => {
          <h1>Bilal Anser</h1>
         <h2>jab sirf code ko push krna ho tu</h2>
         <p>git status</p>
-        cake chumi da 
         <p>git add . </p>
         <p>git commit -m "messege"</p>
         <p>git push origin master</p>
